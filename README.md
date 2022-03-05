@@ -12,4 +12,5 @@ Gentoo virtual machine w/ optimized /etc/portage/make.conf
 - Kernel: 5.16.10-gentoo (Custom kernel configuration)
 - Bootloader: Grub
 - Comes with NeoVim and dhcpcd because nano is a terrible text editor
+- Root password: GentooIsBased123@
 - -gnome -kde -systemd -wayland -qt as USE flags [[Download]](https://drive.google.com/file/d/1PxaIbj4ptQbPRFIAo-qJE7_Ozd0BGBj2/view?usp=sharing)
